@@ -61,8 +61,6 @@
   - [ ] maven
   - [ ] springcloud  feign
   - [ ] 并发
-    - [ ] redission
-  - [ ] 
 - [ ] 服务器剩下的时间利用起来
 - [ ] 阴阳师脚本
 - [ ] 抢票脚本
